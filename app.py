@@ -6,6 +6,7 @@ print(" HR Attendance & Performance Bot ")
 print("=" * 60)
 print("Type 'exit' to quit.\n")
 
+
 conversation = []
 
 while True:
